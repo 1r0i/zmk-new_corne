@@ -113,7 +113,7 @@
         layer_2 {
             bindings = <
 &trans  &trans    &trans    &trans     &kp SEMI  &trans                    &trans          &trans  &trans     &trans    &trans  &trans  &trans
-&trans  &trans    &trans    &kp EQUAL  &trans    &trans            &trans  &trans  &trans  &trans  &kp MINUS  &trans    &trans  &trans  &trans
+&trans  &trans    &trans    &kp EQUAL  &trans    &trans            &trans  &trans  &trans  &trans  &kp MINUS  &kp PLUS  &trans  &trans  &trans
 &trans  &kp LBKT  &kp RBKT  &trans     &kp APOS  &trans  &trans            &trans          &trans  &kp FSLH   &kp BSLH  &trans  &trans  &trans
                             &trans     &trans    &trans                                    &trans  &trans     &trans
             >;
